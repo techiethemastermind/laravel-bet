@@ -56,8 +56,8 @@ Welcome to the Laravel Betting Project! This project is built using the Laravel 
 - Laravel, jQuery, Vue
 - MySQL
 - Blade templating engine
-- Real-time updates (using websockets, if applicable)
-- Responsive CSS framework (e.g., Bootstrap)
+- Real-time updates (using websockets)
+- Responsive CSS framework (Bootstrap)
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request.
